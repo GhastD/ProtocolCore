@@ -1,0 +1,4 @@
+name: ProtocolCore
+version: ${project.version}
+main: cc.ghast.protocolcore.ProtocolCore
+api-version: 1.13
