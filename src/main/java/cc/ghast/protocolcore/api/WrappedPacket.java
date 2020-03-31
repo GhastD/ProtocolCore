@@ -1,7 +1,6 @@
-package cc.ghast.protocolcore.api.packet.wrappers.api;
+package cc.ghast.protocolcore.api;
 
 import com.comphenix.protocol.events.PacketContainer;
-import lombok.AllArgsConstructor;
 import org.bukkit.entity.Player;
 
 /**

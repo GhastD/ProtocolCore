@@ -1,8 +1,8 @@
-package cc.ghast.protocolcore.api.packet.listener;
+package cc.ghast.protocolcore.listener;
 
 import cc.ghast.protocolcore.ProtocolCore;
-import cc.ghast.protocolcore.api.packet.wrappers.api.PacketUtil;
-import cc.ghast.protocolcore.api.packet.wrappers.api.WrappedPacket;
+import cc.ghast.protocolcore.api.packet.utils.PacketUtil;
+import cc.ghast.protocolcore.api.WrappedPacket;
 import com.comphenix.protocol.PacketType;
 import com.comphenix.protocol.events.ListenerPriority;
 import com.comphenix.protocol.events.PacketAdapter;

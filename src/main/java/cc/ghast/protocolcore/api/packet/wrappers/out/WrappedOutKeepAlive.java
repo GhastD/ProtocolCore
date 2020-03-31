@@ -1,6 +1,6 @@
 package cc.ghast.protocolcore.api.packet.wrappers.out;
 
-import cc.ghast.protocolcore.api.packet.wrappers.api.WrappedPacket;
+import cc.ghast.protocolcore.api.WrappedPacket;
 import com.comphenix.protocol.events.PacketContainer;
 import com.comphenix.protocol.utility.MinecraftVersion;
 import lombok.Getter;
