@@ -1,14 +1,12 @@
-package cc.ghast.protocolcore.api.packet.wrappers.api;
+package cc.ghast.protocolcore.api.packet.utils;
 
+import cc.ghast.protocolcore.api.WrappedPacket;
 import cc.ghast.protocolcore.api.packet.wrappers.in.*;
 import cc.ghast.protocolcore.api.packet.wrappers.out.*;
 import com.comphenix.protocol.PacketType;
-import com.comphenix.protocol.PacketTypeEnum;
 import com.comphenix.protocol.events.PacketContainer;
 import com.comphenix.protocol.utility.MinecraftVersion;
 import org.bukkit.entity.Player;
-
-import java.util.Arrays;
 
 /**
  * @author Ghast
