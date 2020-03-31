@@ -22,7 +22,7 @@ public class PacketListener extends PacketAdapter {
         WrappedPacket packet = PacketUtil.getPacket(event.getPacket(), event.getPlayer());
         if (packet == null) return;
 
-
+        // PROCESS INBOUND HERE
     }
 
     @Override
@@ -30,6 +30,6 @@ public class PacketListener extends PacketAdapter {
         WrappedPacket packet = PacketUtil.getPacket(event.getPacket(), event.getPlayer());
         if (packet == null) return;
 
-
+        // PROCESS OUTBOUND HERE
     }
 }
